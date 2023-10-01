@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.2.11",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "It is a QR code Generator using Node;JS",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adii-Khandelwal/QR-Code-Generator.git"
+  },
+  "author": "Aditya Khandelwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adii-Khandelwal/QR-Code-Generator/issues"
+  },
+  "homepage": "https://github.com/Adii-Khandelwal/QR-Code-Generator#readme"
+}
